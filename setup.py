@@ -23,6 +23,7 @@ setup(
     install_requires=[
         'Flask>=0.10.0',
         'Flask-Script>=2.0.0',
+        'six==1.10.0',
     ],
     classifiers=[
         'Environment :: Web Environment',
